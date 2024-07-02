@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: act
+
+server:
+  port: 8088
+
